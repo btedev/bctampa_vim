@@ -1,0 +1,7 @@
+Change "Swingline" to "Boston" 3 of 3 (best - find & replace)
+
+1.  :s/Swingline/Boston/g
+
+2.  to review and approve changes, use
+
+    :s/Swingline/Boston/gc

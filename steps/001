@@ -1,0 +1,11 @@
+Change "Swingline" to "Boston" 1 of 3 (slow)
+
+1.  j (until you reach line 6)
+
+2.  l (until you reach "S" of Swingline)
+
+3.  x (until Swingline is deleted)
+
+4.  i (enter Insert mode)
+
+5.  type Boston
