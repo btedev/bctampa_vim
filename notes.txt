@@ -1,0 +1,73 @@
+
+													                               ___     
+													      ___        ___          /__/\    
+													     /__/\      /  /\        |  |::\   
+													     \  \:\    /  /:/        |  |:|:\  
+													      \  \:\  /__/::\      __|__|:|\:\ 
+													  ___  \__\:\ \__\/\:\__  /__/::::| \:\
+													 /__/\ |  |:|    \  \:\/\ \  \:\~~\__\/
+													 \  \:\|  |:|     \__\::/  \  \:\      
+													  \  \:\__|:|     /__/:/    \  \:\     
+													   \__\::::/      \__\/      \  \:\    
+													       ~~~~                   \__\/    
+													
+														Kicking Text Editor Butt Since 1991
+														Try Vim - because beauty is more than skin deep
+
+ssh bezell@24.227.51.140
+
+2.  Movement by Line
+
+3.  Movement by File
+
+(somewhere, concept of verbs, nouns, adjectives like http://stevelosh.com/blog/2010/09/coming-home-to-vim/)
+
+5.  Movement-based editing (like "dt.", r, R, c)
+
+6.  Undo/redo, registers
+
+7.  Macros
+
+8.  Directories
+
+9.  Customizing (colors, .vimrc)
+
+10. Integration w/ other systems (bash, Chrome, Gmail)
+
+		a. Within Xcode: http://www.vim.org/scripts/script.php?script_id=2674
+
+
+
+1.  Completion
+
+2.  Chrome Vimium, set -o vi, Xcode?, vimtutor
+
+
+"Cool tricks":
+
+ci" = replace within quotes and go into insert (from anywhere in the quoted string)
+
+xp = fix transposition
+
+viw = visual inner word
+
+indent/outdent blocks using > & <
+
+a "something" b
+
+Switch case with ~
+
+
+References: 
+
+	Yehuda Katz switch story: http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
+
+	Peepcode videos
+
+	Vimcasts.org
+
+	http://stevelosh.com/blog/2010/09/coming-home-to-vim/
+
+	Reddit vim switch: http://www.reddit.com/r/vim/
+
+	Sync .vimrc files with Dropbox: http://blog.kortina.net/post/101084632/sync-config-files-with-dropbox	

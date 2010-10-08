@@ -1,0 +1,37 @@
+Intermediate Editing
+====================
+
+1.  dw = delete word
+
+2.  db = delete word backward
+
+3.  2dw = delete next two words
+
+4.  d$ = delete to end of line
+
+5.  d^ = delete to beginning of line
+
+6.  dG = delete to end of file
+
+7.  diw = delete inside word
+
+8.  di) = delete inside parens
+    (also di] di' di")
+
+9.  dd = delete line (also D)
+
+10. J = join this line and next
+
+11. ciw = same as diw, but then start insert mode (also ci" etc.)
+
+12. C = change to the end of the line
+
+12. yw = yank word
+
+14. yy = yank line (also Y)
+
+15. p = paste last yank or delete
+
+16. ddp = switch this line and the next
+
+17. xp = transpose two characters 

@@ -1,0 +1,21 @@
+Insert Mode
+===========
+
+When in insert mode, hit ESC to exit to normal mode
+
+1.  i = insert
+
+2.  a = append
+
+3.  o = new line below current line
+
+4.  O = new line above current line
+
+5.  I = insert before beginning of line
+
+6.  A = append after end of line
+
+7.  r = replace one character
+
+8.  R = replace many characters
+

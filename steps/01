@@ -1,0 +1,32 @@
+Normal-mode Part 1
+====================
+		
+1.  j = move down (line)
+		
+2.  k = move up (line)
+
+3.  h = move left (character)
+
+4.  l = move right (character)
+
+5.  ^ = move to beginning of line
+
+6.  $ = move to end of line
+
+7.  w = move to next word
+
+8.  2w = move two words forward
+
+9.  b = move to previous word
+
+10. e = move to end word
+
+11. x = delete 
+
+12. X = delete backwards (backspace)
+
+13. w = save
+
+14. q = quit
+
+15. q! = force quit (when it's all hosed)

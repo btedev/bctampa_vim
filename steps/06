@@ -1,0 +1,33 @@
+Change "Swingline" to "Boston" 2 of 3 (better)
+
+1.  6G ("go" to line 6)
+
+2.  w w w (jump three words in)
+
+3.  dw (delete word)
+
+4.  i (enter Insert mode)
+
+5.  Boston
+
+
+Modification to skip one step:
+
+1.  6G ("go" to line 6)
+
+2.  w w w (jump three words in)
+
+3.  cw (change word, enters insert mode)
+
+4.  Boston
+
+
+Modification to skip one more step:
+
+1.  /swi<Enter>
+
+2.  cw (change word, enters insert mode)
+
+3.  Boston
+
+

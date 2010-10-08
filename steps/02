@@ -1,0 +1,28 @@
+Normal-mode Part 2
+====================
+
+1.  G = move to bottom of file
+
+2.  gg = move to top of file
+
+3.  50% = move to 50% of line count
+
+4.  27G = move to line 27
+
+5.  CTRL-F = move fwd 1 page
+
+6.  CTRL-B = move back 1 page
+
+7. ft = move to next occurance of "t" in this line
+
+8. 2ft = move to 2nd occurance of "t" in this line
+
+9. /swingline<enter> = search for swingline
+
+10. n = repeat search
+
+11. N = repeat search backward
+
+12. % = move to associated (),{}
+
+13. * = jump to next occurance of current word
