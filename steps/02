@@ -26,3 +26,7 @@ Normal-mode Part 2
 12. % = move to associated (),{}
 
 13. * = jump to next occurance of current word
+
+14. u = undo
+
+15. CTRL-R = redo

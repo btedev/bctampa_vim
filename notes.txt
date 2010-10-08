@@ -12,9 +12,6 @@
 													       ~~~~                   \__\/    
 													
 														Kicking Text Editor Butt Since 1991
-														Try Vim - because beauty is more than skin deep
-
-ssh bezell@24.227.51.140
 
 2.  Movement by Line
 
