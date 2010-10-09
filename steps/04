@@ -1,37 +1,35 @@
 Intermediate Editing
 ====================
 
+(use resque_test.rb)
+
 1.  dw = delete word
 
 2.  db = delete word backward
 
-3.  2dw = delete next two words
+3.  diw = delete inside word (whole)
 
-4.  d$ = delete to end of line
+4.  2dw = delete next two words
 
-5.  d^ = delete to beginning of line
+5.  d$ = delete to end of line
 
-6.  dG = delete to end of file
+6.  d^ = delete to beginning of line
 
-7.  diw = delete inside word
+7.  df( = delete to & including (
 
-8.  di) = delete inside parens
+8.  dt( = delete up to (
+
+9.  dG = delete to end of file
+
+10.  di) = delete inside parens
     (also di] di' di")
 
-9.  dd = delete line (also D)
+11.  dd = delete line (also D)
 
-10. J = join this line and next
+12. J = join this line and next
 
-11. ciw = same as diw, but then start insert mode (also ci" etc.)
+13. ciw = same as diw, but then start insert mode (also ci" etc.)
 
-12. C = change to the end of the line
+14. ddp = switch this line and the next
 
-12. yw = yank word
-
-14. yy = yank line (also Y)
-
-15. p = paste last yank or delete
-
-16. ddp = switch this line and the next
-
-17. xp = transpose two characters 
+15. xp = transpose two characters 

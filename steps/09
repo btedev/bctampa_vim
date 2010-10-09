@@ -1,0 +1,43 @@
+Macros
+------
+
+1.  qa = Record macro mapped to "a"
+
+2.  qb = Record macro mapped to "b"
+
+3.  @a = Repeat macro "a"
+
+4.  @@ = Repeat last macro
+
+
+Use macros with file "tmp_tps"
+
+1.  :o tmp_tps
+
+2.  VG (select everything)
+
+3.  ~ (downcase)
+
+4.  qb
+
+5.  w (cursor on "s")
+
+6.  i: ESC
+
+7.  j^
+
+8.  q (end recording)
+
+9.  @b (play back on current line)
+
+10. @@ (repeat once)
+
+11. 5@@ (repeat 5 times)
+
+12. CTRL-v (enter visual block mode)
+
+13. G (select to last line)
+
+14. I (insert before)
+
+15. t. ESC 

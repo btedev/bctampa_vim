@@ -19,3 +19,21 @@ When in insert mode, hit ESC to exit to normal mode
 
 8.  R = replace many characters
 
+Practice
+--------
+
+1.  :o face.txt
+
+2.  x (delete "f")
+
+3.  it ESC (insert "t")
+
+4.  ll
+
+5.  rz ESC (replace "c" with "z")
+
+6.  ODon't ESC
+
+9.  jA (append to end of line)
+
+10. me <Enter> bro!

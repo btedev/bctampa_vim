@@ -1,0 +1,24 @@
+Navigation
+----------
+
+1.  :o = opens files relative to root
+
+2.  :buffers = shows open windows (aka buffers)
+
+3.  :b3 = open buffer 3
+
+4.  ,t = new tab
+
+5.  t2 = switch to tab 2
+
+6.  ,, = open/close NerdTree
+
+7.  o (in NerdTree) = opens file
+
+8.  t (in NerdTree) = open in new tab
+
+9.  ,p = open PeepOpen (must be installed)
+
+10.  Many options for grep, find, ack
+
+11. Drop files onto MacVim

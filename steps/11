@@ -1,0 +1,18 @@
+Etc.
+----
+
+1.  :colorscheme <name> = change colors
+
+2.  >> = indent
+
+3.  << = outdent
+
+4.  ,cs = comment
+
+5.  CTRL-A = increment a number
+
+6.  ,se = execute SQL stmt (via dbext)
+
+7.  (from cmd line) vimtutor
+
+8. :!pwd = execute any cmd in bash

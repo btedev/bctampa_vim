@@ -1,5 +1,7 @@
 Change "Swingline" to "Boston" 1 of 3 (slow)
 
+(use office.txt)
+
 1.  j (until you reach line 6)
 
 2.  l (until you reach "S" of Swingline)

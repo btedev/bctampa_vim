@@ -13,6 +13,19 @@
 													
 														Kicking Text Editor Butt Since 1991
 
+In-room prep
+------------
+
+1.  Have MySQL DB ready to demo
+
+2.  Have full-screen instance with Molokai colorscheme to demo "real" setup
+
+3.  Have open ssh cnn to server
+
+
+Topics to cover
+---------------
+
 2.  Movement by Line
 
 3.  Movement by File

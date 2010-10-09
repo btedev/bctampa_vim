@@ -1,0 +1,8 @@
+Visual mode
+-----------
+
+1. v = basic visual selection
+
+2. V = select entire lines
+
+3. CTRL-v = select blocks
